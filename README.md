@@ -1,6 +1,6 @@
 # dados_bang
 
-A new Flutter project.
+Dados do Game de tabuleiro Bang! Dice Game.
 
 ## Getting Started
 
